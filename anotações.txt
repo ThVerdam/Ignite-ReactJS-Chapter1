@@ -1,0 +1,7 @@
+#Imutabilade
+
+usuarios = ['thverdam', 'diego3g', 'dieegosf']
+
+usuarios.push('rafacamarda')
+
+novoUsuarios = [...usuarios, 'rafacamarda']
